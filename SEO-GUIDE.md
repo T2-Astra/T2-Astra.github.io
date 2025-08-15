@@ -177,3 +177,8 @@ You'll know it's working when:
 **Remember**: SEO is a marathon, not a sprint. Stay consistent with the T2-Astra branding across all platforms, and you'll see results within 2-3 months!
 
 For questions or updates, refer back to this guide and track your progress weekly.
+
+
+## 🌐 My Portfolio
+Check out my personal portfolio: [t2-astra.is-a.dev](https://t2-astra.is-a.dev/)
+
