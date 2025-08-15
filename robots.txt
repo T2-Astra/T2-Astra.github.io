@@ -1,0 +1,40 @@
+# T2-Astra Portfolio Robots.txt
+# Official website of T2-Astra (Krish Mhatre)
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://t2-astra.is-a.dev/sitemap.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
+
+# Allow all major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# Disallow access to sensitive files
+Disallow: /*.log$
+Disallow: /*.txt$
+Disallow: /private/
+Disallow: /admin/
+Disallow: /.git/
+
+# Host declaration
+Host: https://t2-astra.is-a.dev
