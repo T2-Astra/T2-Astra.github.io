@@ -2,7 +2,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { motion } from "framer-motion";
-import { blackCircle } from "@/public";
+import { blackCircle } from "@/lib/images";
 import { useTranslations } from "next-intl";
 import { TextHover, Marquee } from "@/components";
 

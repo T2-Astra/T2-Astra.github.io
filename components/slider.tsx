@@ -4,7 +4,7 @@ import { useRef } from "react";
 import Image from "next/image";
 import { useTranslations } from "next-intl";
 import { Navigation } from "swiper/modules";
-import { arrowLeft, arrowRight } from "@/public";
+import { arrowLeft, arrowRight } from "@/lib/images";
 import { Swiper, SwiperSlide } from "swiper/react";
 
 export default function Slider() {

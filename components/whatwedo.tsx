@@ -3,7 +3,7 @@ import Image from "next/image";
 import { motion } from "framer-motion";
 import { useTranslations } from "next-intl";
 import { Marquee, Card } from "@/components";
-import { whatwedoCircleImg } from "@/public";
+import { whatwedoCircleImg } from "@/lib/images";
 
 export default function Whatwedo() {
 	const t = useTranslations("whatwedoContent");

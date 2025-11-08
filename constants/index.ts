@@ -5,7 +5,7 @@ import {
 	pythonLogo,
 	typescriptLogo,
 	tailwindLogo,
-} from "@/public";
+} from "@/lib/images";
 
 export const links = [
 	{

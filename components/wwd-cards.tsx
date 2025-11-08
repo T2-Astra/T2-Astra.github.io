@@ -9,7 +9,7 @@ import {
 	whatwedoImg2,
 	whatwedoImg3,
 	whatwedoImg4,
-} from "@/public";
+} from "@/lib/images";
 
 export default function Card() {
 	const container1 = useRef(null);

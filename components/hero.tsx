@@ -6,7 +6,7 @@ import Image from "next/image";
 import { motion } from "framer-motion";
 import { useEffect, useRef } from "react";
 import { useTranslations } from "next-intl";
-import { arrowDown, companiesImg } from "@/public";
+import { arrowDown, companiesImg } from "@/lib/images";
 
 export default function Hero() {
 	const t = useTranslations("heroContent");

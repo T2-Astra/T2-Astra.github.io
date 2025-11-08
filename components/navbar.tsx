@@ -5,7 +5,7 @@ import { links } from "@/constants";
 import TextHover from "./text-hover";
 import { navVariants } from "@/motion";
 import { useRouter } from "next/navigation";
-import { blackCircle, logo } from "@/public";
+import { blackCircle, logo } from "@/lib/images";
 import { useState, useTransition } from "react";
 import { useLocale, useTranslations } from "next-intl";
 import { AnimatePresence, motion } from "framer-motion";
