@@ -3,11 +3,6 @@
 import createNextIntlPlugin from "next-intl/plugin";
 
 const withNextIntl = createNextIntlPlugin();
-const nextConfig = {
-	output: 'export',
-	images: {
-		unoptimized: true,
-	},
-};
+const nextConfig = {};
 
 export default withNextIntl(nextConfig);
