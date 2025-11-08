@@ -1,0 +1,55 @@
+<svg width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="800" fill="#320707"/>
+  
+  <!-- Code Editor Window Left -->
+  <rect x="100" y="200" width="280" height="400" rx="8" fill="#FFD7EF" opacity="0.15"/>
+  <rect x="100" y="200" width="280" height="40" rx="8" fill="#FFD7EF" opacity="0.2"/>
+  <circle cx="120" cy="220" r="6" fill="#FFC091" opacity="0.6"/>
+  <circle cx="140" cy="220" r="6" fill="#FFC091" opacity="0.6"/>
+  <circle cx="160" cy="220" r="6" fill="#FFC091" opacity="0.6"/>
+  
+  <!-- Code Lines Left -->
+  <line x1="120" y1="270" x2="240" y2="270" stroke="#FFD7EF" stroke-width="3" opacity="0.5"/>
+  <line x1="140" y1="300" x2="280" y2="300" stroke="#FFD7EF" stroke-width="3" opacity="0.5"/>
+  <line x1="140" y1="330" x2="220" y2="330" stroke="#FFD7EF" stroke-width="3" opacity="0.5"/>
+  <line x1="140" y1="360" x2="300" y2="360" stroke="#FFD7EF" stroke-width="3" opacity="0.5"/>
+  <line x1="120" y1="390" x2="260" y2="390" stroke="#FFD7EF" stroke-width="3" opacity="0.5"/>
+  <line x1="140" y1="420" x2="200" y2="420" stroke="#FFD7EF" stroke-width="3" opacity="0.5"/>
+  <line x1="120" y1="450" x2="240" y2="450" stroke="#FFD7EF" stroke-width="3" opacity="0.5"/>
+  <line x1="140" y1="480" x2="280" y2="480" stroke="#FFD7EF" stroke-width="3" opacity="0.5"/>
+  <line x1="140" y1="510" x2="220" y2="510" stroke="#FFD7EF" stroke-width="3" opacity="0.5"/>
+  <line x1="120" y1="540" x2="180" y2="540" stroke="#FFD7EF" stroke-width="3" opacity="0.5"/>
+  
+  <!-- Arrow -->
+  <path d="M390 380 L440 380 L440 360 L480 400 L440 440 L440 420 L390 420 Z" fill="#FFC091" opacity="0.8"/>
+  
+  <!-- Code Editor Window Right -->
+  <rect x="420" y="200" width="280" height="400" rx="8" fill="#FFD7EF" opacity="0.15"/>
+  <rect x="420" y="200" width="280" height="40" rx="8" fill="#FFD7EF" opacity="0.2"/>
+  <circle cx="440" cy="220" r="6" fill="#FFC091" opacity="0.6"/>
+  <circle cx="460" cy="220" r="6" fill="#FFC091" opacity="0.6"/>
+  <circle cx="480" cy="220" r="6" fill="#FFC091" opacity="0.6"/>
+  
+  <!-- Code Lines Right -->
+  <line x1="440" y1="270" x2="580" y2="270" stroke="#FFD7EF" stroke-width="3" opacity="0.5"/>
+  <line x1="460" y1="300" x2="620" y2="300" stroke="#FFD7EF" stroke-width="3" opacity="0.5"/>
+  <line x1="460" y1="330" x2="560" y2="330" stroke="#FFD7EF" stroke-width="3" opacity="0.5"/>
+  <line x1="460" y1="360" x2="640" y2="360" stroke="#FFD7EF" stroke-width="3" opacity="0.5"/>
+  <line x1="440" y1="390" x2="600" y2="390" stroke="#FFD7EF" stroke-width="3" opacity="0.5"/>
+  <line x1="460" y1="420" x2="540" y2="420" stroke="#FFD7EF" stroke-width="3" opacity="0.5"/>
+  <line x1="440" y1="450" x2="580" y2="450" stroke="#FFD7EF" stroke-width="3" opacity="0.5"/>
+  <line x1="460" y1="480" x2="620" y2="480" stroke="#FFD7EF" stroke-width="3" opacity="0.5"/>
+  <line x1="460" y1="510" x2="560" y2="510" stroke="#FFD7EF" stroke-width="3" opacity="0.5"/>
+  <line x1="440" y1="540" x2="520" y2="540" stroke="#FFD7EF" stroke-width="3" opacity="0.5"/>
+  
+  <!-- Language Tags -->
+  <rect x="110" y="160" width="80" height="30" rx="15" fill="#FFC091" opacity="0.3"/>
+  <text x="150" y="180" font-family="Arial" font-size="14" fill="#FFD7EF" text-anchor="middle" opacity="0.8">Python</text>
+  
+  <rect x="620" y="160" width="70" height="30" rx="15" fill="#FFC091" opacity="0.3"/>
+  <text x="655" y="180" font-family="Arial" font-size="14" fill="#FFD7EF" text-anchor="middle" opacity="0.8">Java</text>
+  
+  <!-- Decorative elements -->
+  <circle cx="150" cy="100" r="40" fill="#FFD7EF" opacity="0.05"/>
+  <circle cx="650" cy="680" r="50" fill="#FFD7EF" opacity="0.05"/>
+</svg>

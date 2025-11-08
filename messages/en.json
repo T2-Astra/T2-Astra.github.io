@@ -1,0 +1,94 @@
+{
+	"navbarContent": {
+		"our-ambition": "About me",
+		"what-we-do": "My work",
+		"transformation": "My process",
+		"our-impact": "Testimonials",
+		"get-in-touch": "Get in touch"
+	},
+	"heroContent": {
+		"welcome-to-the-world-of": "Welcome to the portfolio of",
+		"where-the-journey": "Where creativity meets innovation and <br/> every project tells a unique story.",
+		"lets-build": "Let's create something amazing",
+		"start": "start exploring"
+	},
+	"journeyContent": {
+		"journeyContent": "I'm a passionate developer and designer who creates digital experiences that blend creativity with functionality. Every project is an opportunity to solve problems and bring ideas to life."
+	},
+	"companiesContent": {
+		"companiesHeading": "I create websites that solve real-world problems and make a meaningful impact. My focus is on building open source solutions that are not only useful but also accessible to everyone, contributing to the developer community and helping others learn and grow.",
+		"companiesPara": "Every project I build addresses genuine challenges that people face daily. From productivity tools to educational platforms, I develop solutions that are practical, user-friendly, and designed to make life easier for real users.",
+		"companiesPara1": "Open source is at the heart of my development philosophy. By sharing code and knowledge, I believe we can collectively build better solutions and create opportunities for other developers to contribute and learn.",
+		"companiesPara2": "My websites are built with purpose — they're not just functional, but truly useful. I focus on creating tools and platforms that people actually need and want to use, solving problems that matter in the real world."
+	},
+	"whatwedoContent": {
+		"whatwedoHeading": "I create real-world problem-solving projects across four key areas: Frontend Development, <br /> UI/UX Design, Full-Stack Solutions, and Mobile Applications. Every project I build <br /> addresses genuine challenges and delivers practical solutions.",
+		"title1": "Disposable Email Addresses - Secure, Fast & Private",
+		"heading1": "TimeMail",
+		"heading2": "Generator",
+		"para1": "Generate disposable email addresses instantly — secure, fast, and private. Perfect for quick sign-ups and avoiding spam in your inbox.",
+		"href1": "Visit TimeMail",
+		"bgColor1": "#260A2F",
+		"textColor1": "#FFD7EF",
+		"linkColor1": "#FFC091",
+		"title2": "Bank Grade Security & Instant Processing",
+		"heading3": "PayPro",
+		"heading4": "Gateway",
+		"para2": "Create secure UPI payment links instantly with our advanced payment gateway. Features 256-bit SSL encryption, lightning-fast processing, and universal compatibility with all major UPI apps.",
+		"href2": "https://upilinkgenerator.vercel.app/",
+		"bgColor2": "#9FE870",
+		"textColor2": "#260A2F",
+		"linkColor2": "#260A2F",
+		"title3": "Crafted with Modern CSS and Tailwind",
+		"heading5": "Pattern",
+		"heading6": "Nix",
+		"para3": "Craft beautiful patterns and backgrounds with professional-grade designs. One-click copy ready-to-use CSS code, live preview, and seamlessly integrate into your projects.",
+		"href3": "https://patter-nix.vercel.app/",
+		"bgColor3": "#163300",
+		"textColor3": "#9BE36D",
+		"linkColor3": "#FFC091",
+		"title4": "Supports Python, JavaScript, Java, C++, Go, Rust & More",
+		"heading7": "Language",
+		"heading8": "Converter",
+		"para4": "Convert code between any programming languages instantly — seamless translation for developers. Lightning-fast conversion with support for all major programming languages.",
+		"href4": "https://languageconverter.onrender.com/",
+		"bgColor4": "#320707",
+		"textColor4": "#FFD7EF",
+		"linkColor4": "#FFC091"
+	},
+	"sliderContent": {
+		"sliderHeading1": "Welcome to T2-Astra Blog",
+		"sliderHeading2": "Stay tuned for insights on AI/ML, deep learning, and cutting-edge technology from T2-Astra.",
+		"sliderHeading3": "Follow my journey as I explore the latest in artificial intelligence and machine learning development!",
+		"title1": "Recent Achievement",
+		"heading1": "🏆 T2-Astra Wins First Place at FUTURE-X National Competition",
+		"para1": "T2-Astra (Krish Mhatre) won 1st place at ICARUS Techfest's national-level technical competition with the innovative 1TimeMail project - a privacy-focused temporary email service. Competed against top engineering talent from across India, representing the T2-Astra brand in cutting-edge technology development. 🔒 Privacy-First | ⚡ Real-time | 🛡️ Spam Protection | Deployed at: https://1timemail.org/ | March 2025",
+		"title2": "Hackathon Experience",
+		"heading2": "🔒 Hackspark-1.0: Building Cybersecurity Solutions",
+		"para2": "T2-Astra participated in a 24-hour state-level hackathon at Thakur Shyamnarayan Engineering College. Built an innovative cybersecurity project for detecting spam mail messages and created a Chrome extension to protect users, showcasing T2-Astra's commitment to cybersecurity solutions. 🔒 Cybersecurity | 🧩 Chrome Extension | 📧 Spam Detection | Learning Experience",
+		"title3": "Project Deployment",
+		"heading3": "🚀 PayPro Gateway - UPI Payment Solution",
+		"para3": "Deployed a secure UPI payment link generator with bank-grade security and instant processing. Built with modern web technologies and deployed on Vercel for optimal performance. Features 256-bit SSL encryption and universal UPI app compatibility. 💳 Payment Gateway | ⚡ Instant Processing | 🔐 Secure | Deployed at: https://upilinkgenerator.vercel.app/",
+		"title4": "Open Source Contribution",
+		"heading4": "🎨 PatternNix - CSS Pattern Library",
+		"para4": "Created and deployed an open-source pattern library featuring professional-grade background patterns and gradients. Built with modern CSS and Tailwind, offering one-click copy functionality and live preview. Helping developers worldwide create beautiful interfaces. 🎨 Design Tool | 📋 One-Click Copy | 🌐 Open Source | Deployed at: https://patter-nix.vercel.app/",
+		"title5": "AI/ML Project",
+		"heading5": "🤖 Language Converter - AI-Powered Code Translation",
+		"para5": "Developed and deployed an AI-powered code translation tool supporting Python, JavaScript, Java, C++, Go, Rust, and more. Leveraging machine learning for seamless code conversion between programming languages. Helping developers work across multiple tech stacks efficiently. 🤖 AI/ML | 💻 Multi-Language | ⚡ Real-time | Deployed at: https://languageconverter.onrender.com/"
+	},
+	"ourImpactContent": {
+		"ourImpactHeading1": "Tech Stack & Tools",
+		"ourImpactHeading2": "Building modern applications with cutting-edge technologies and industry-standard tools!",
+		"title1": "I specialize in full-stack development using React, Next.js, Node.js, and modern frameworks. My projects leverage AI/ML technologies, cloud platforms like Vercel and Render, and focus on creating scalable, production-ready applications that solve real-world problems.",
+		"heading1": "Full-Stack Development",
+		"para1": "React • Next.js • Node.js • TypeScript • Python",
+		"title2": "From winning national competitions to deploying production applications, I'm passionate about building innovative solutions. My work spans across web development, AI/ML projects, cybersecurity tools, and open-source contributions that help developers worldwide.",
+		"heading2": "Innovation & Impact",
+		"para2": "AI/ML • Cybersecurity • Open Source • Competition Winner"
+	},
+	"footerContent": {
+		"footerHeading1": "Every great project starts with a conversation. Let's discuss your ideas and bring them to life together.",
+		"footerHeading2": "Ready to create something amazing? Let's connect and turn your vision into reality.",
+		"footerBtn": "Get in touch"
+	}
+}
