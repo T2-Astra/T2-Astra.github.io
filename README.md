@@ -1,12 +1,3 @@
-# port-5
+# T2-Astra
 
-# Portfolio Website created with
-
-✅ Next JS
-✅ React JS
-✅ TypeScript
-✅ Tailwind CSS
-✅ GSAP
-✅ Framer Motion
-✅ Lenis Scroll
-
+This repository is currently empty.
